@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1fbe9dc72a1ffd4db3d66a6308fcbc4, type: 3}
+  m_Name: LocalizationSyncSettings
+  m_EditorClassIdentifier: 
+  TableId: 19QIWpn1qUZADkWccGsFpBfEFBvHohIednYbvnbAl1lk
+  Sheets:
+  - Name: Localization
+    Id: 0
+  SaveFolder: {fileID: 102900000, guid: 3de04e70f1440c44a8c3b12d7042df6f, type: 3}

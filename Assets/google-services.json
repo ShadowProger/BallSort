@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431324718583",
+    "project_id": "ballsort-976b3",
+    "storage_bucket": "ballsort-976b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431324718583:android:4f511f073ba465d4bfbaf2",
+        "android_client_info": {
+          "package_name": "com.Manybits.BallSort.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431324718583-aiheoi9hufic3l55kdfcodnecpsg1886.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7zPRxp7zXB95FaPI8olpXlUK0RN2-jB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431324718583-aiheoi9hufic3l55kdfcodnecpsg1886.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

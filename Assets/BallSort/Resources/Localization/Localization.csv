@@ -1,0 +1,16 @@
+,RU,EN
+ui.level,Уровень,Level
+ui.settingsTitle,Настройки,Settings
+ui.levelsTitle,Уровни,Levels
+ui.noAds,Убрать рекламу,Disable Ads
+ui.rateUs,Оцените нас,Rate us
+ui.nextButton,Вперед,Next
+ui.winText1,ВЕЛИКОЛЕПНО!,PERFECT!
+ui.winText2,ОТЛИЧНО!,GREAT!
+ui.winText3,ПОБЕДА!,VICTORY!
+tutorial.first,Необходимо поместить каждый цвет в отдельную колбу,Each color must be placed in a separate container
+tutorial.second,Совмещайте шарики ТОЛЬКО ОДИНАКОВЫХ цветов,Only SAME COLOR ball can be placed on top of each other
+help.restart,НАЧАТЬ ЗАНОВО,START OVER
+help.undo,ОТМЕНИТЬ ХОД,UNDO
+help.add,ДОБАВИТЬ ПУСТУЮ КОЛБУ,ADD EMPTY CONTAINER
+help.show,ПОКАЗАТЬ СПРАВКУ,SHOW HELP

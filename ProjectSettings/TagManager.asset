@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 2810515559
+    locked: 0
+  - name: ContainerShadow
+    uniqueID: 3853111021
+    locked: 0
+  - name: BallShadow
+    uniqueID: 2057817479
+    locked: 0
+  - name: Container
+    uniqueID: 1713420981
+    locked: 0
+  - name: Ball
+    uniqueID: 1226135597
+    locked: 0
+  - name: UpperBall
+    uniqueID: 321902721
+    locked: 0
